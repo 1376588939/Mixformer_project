@@ -3,4 +3,4 @@ This repo is based on the official Pytorch implementation of LTSF-Linear: "[Are 
 
 ## Updates
 
-We add the proposed method Mixformer in /Model. 
+We add the proposed method Mixformer in FEDformer/Models. 
